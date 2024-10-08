@@ -1,0 +1,21 @@
+
+body {
+    font-family: Arial, sans-serif;
+}
+header {
+    background: #007bff;
+    color: #fff;
+    padding: 100px 0;
+}
+#features .col-md-4 {
+    margin-bottom: 30px;
+}
+#how-it-works {
+    background-color: #f8f9fa;
+    padding: 60px 0;
+}
+footer {
+    background-color: #343a40;
+    color: #fff;
+    padding: 20px 0;
+}
